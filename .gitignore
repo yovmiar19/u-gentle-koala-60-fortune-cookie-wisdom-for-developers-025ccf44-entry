@@ -1,0 +1,5 @@
+node_modules/
+u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44-kit/
+*.tar.gz
+bundle-parent.tar.gz
+bundle-*.tar.gz
